@@ -1,0 +1,18 @@
+.pink{
+    background-color: pink;
+}
+
+.big {
+    font-size: 20px;
+}
+
+#idOne {
+    color: blue;
+    font-size: 20px;
+}
+
+#idTwo {
+    font-size: 20px;
+    background-color: green;
+    font-weight: bold;
+}
